@@ -14,7 +14,7 @@ class ProductStructureTest extends TestCase
     }
     public function testMake()
     {
-        $this->assertEquals([
+        $this->assertSame([
             'preto' =>  [
                 'PP' => 1,
                 'M' => 1,
