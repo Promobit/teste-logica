@@ -1,6 +1,6 @@
 # Teste Promobit
 
-📢 Aviso: Não dê um fork neste repositório. Clone o repositório e suba em seu GitHub, envie o link do seu repositório para [contato@promobit.com.br](mailto:contato@promobit.com.br)
+📢 Aviso: Não dê um fork neste repositório. Clone o repositório e suba em seu GitHub, envie o link do seu repositório para [luiza.rosa@promobit.com.br](mailto:luiza.rosa@promobit.com.br)
 - [Teste Promobit](#teste-promobit)
     - [Descrição](#descrição)
     - [Como funciona este repositório?](#como-funciona-este-repositório)
